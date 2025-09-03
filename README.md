@@ -8,7 +8,7 @@ You need to have Python 3.7 or later installed.
 Clone the repository to your local machine:
 
 - git clone [https://github.com/naima-shaikh/Real-Time-Sentiments-Analysis-Tool.git]
-- (https://github.com/naima-shaikh/Real-Time-Sentiments-Analysis-Tool.git)
+
 - cd Real-Time-Sentiments-Analysis-Tool
 
 Install the required Python libraries. 
