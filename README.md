@@ -7,14 +7,18 @@ You need to have Python 3.7 or later installed.
 # Installation
 Clone the repository to your local machine:
 
-git clone [https://github.com/naima-shaikh/Real-Time-Sentiments-Analysis-Tool.git](https://github.com/naima-shaikh/Real-Time-Sentiments-Analysis-Tool.git)
-cd Real-Time-Sentiments-Analysis-Tool
+- git clone [https://github.com/naima-shaikh/Real-Time-Sentiments-Analysis-Tool.git]
+- (https://github.com/naima-shaikh/Real-Time-Sentiments-Analysis-Tool.git)
+- cd Real-Time-Sentiments-Analysis-Tool
 
-Install the required Python libraries. It's recommended to use a virtual environment.
+Install the required Python libraries. 
+It's recommended to use a virtual environment.
 
 pip install transformers torch gradio
 
-Note: The torch library can be large. If you prefer to use TensorFlow, you can install that instead: pip install transformers tensorflow gradio.
+# Note: 
+The torch library can be large. If you prefer to use TensorFlow, you can install that instead:
+-  pip install transformers tensorflow gradio.
 
 # Usage
 Run the main application script from your terminal:
