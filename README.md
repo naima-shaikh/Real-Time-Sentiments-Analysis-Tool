@@ -36,4 +36,3 @@ Hugging Face transformers: Provides access to the pre-trained sentiment analysis
 
 Gradio: Used to create the simple, interactive web interface.
 
-PyTorch / TensorFlow: The deep learning framework used by the model.
