@@ -25,8 +25,6 @@ Run the main application script from your terminal:
 
 python sentiments.py
 
-(Note: You may need to rename your main script file to app.py if it is named something else).
-
 Once the server is running, you'll see a local URL in your terminal (usually http://127.0.0.1:7860). Open this URL in your web browser.
 
 Type or paste any text into the input box and the sentiment label (Positive or Negative) will update automatically in real time.
