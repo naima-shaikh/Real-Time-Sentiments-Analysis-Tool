@@ -23,7 +23,7 @@ The torch library can be large. If you prefer to use TensorFlow, you can install
 # Usage
 Run the main application script from your terminal:
 
-python sentiments.py
+python app.py
 
 (Note: You may need to rename your main script file to app.py if it is named something else).
 
@@ -38,4 +38,3 @@ Hugging Face transformers: Provides access to the pre-trained sentiment analysis
 
 Gradio: Used to create the simple, interactive web interface.
 
-PyTorch / TensorFlow: The deep learning framework used by the model.
