@@ -23,7 +23,7 @@ The torch library can be large. If you prefer to use TensorFlow, you can install
 # Usage
 Run the main application script from your terminal:
 
-python app.py
+python sentiments.py
 
 (Note: You may need to rename your main script file to app.py if it is named something else).
 
