@@ -14,27 +14,30 @@ Clone the repository to your local machine:
 Install the required Python libraries. 
 It's recommended to use a virtual environment.
 
-pip install transformers torch gradio
-
-# Note: 
-The torch library can be large. If you prefer to use TensorFlow, you can install that instead:
--  pip install transformers tensorflow gradio.
 
 # Usage
 Run the main application script from your terminal:
 
-python app.py
-
-(Note: You may need to rename your main script file to app.py if it is named something else).
+python sentiments.py
 
 Once the server is running, you'll see a local URL in your terminal (usually http://127.0.0.1:7860). Open this URL in your web browser.
 
-Type or paste any text into the input box and the sentiment label (Positive or Negative) will update automatically in real time.
+
 
 # Technologies Used
 Python: The core programming language.
 
 Hugging Face transformers: Provides access to the pre-trained sentiment analysis model (distilbert-base-uncased-finetuned-sst-2-english).
 
+API key : I used twitter developer API key to fetch all the relevant data with emotions from twitter. 
+
 Gradio: Used to create the simple, interactive web interface.
+
+# Working of a project
+The Real-Time Sentiment Analysis Tool is an interactive,AI-powered application that provides instant analysis of text in multiple language with the emotions sentiments. It addresses the common problem of manually sifting through large volumes of text from sources like (Twitter) social media.
+ - This project provide MULTI-LANGUAGE SUPPORT and INTEGRATE MODELS THAT CAN ANALYZE TEXT IN DIFFERENT
+LANGUAGES.
+- It provide API INTEGRATION to  Connect the tool to Social Media Platforms OR Customer Feedback
+Systems.
+- It also provide Sentiment Trends to  Add Data Storage and  Visualization to  track Sentiment over Time.
 
