@@ -19,6 +19,11 @@ It's recommended to use a virtual environment.
 Run the main application script from your terminal:
 
 python sentiments.py
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 02f5307697eebbb387d0332cdead58371057d2d6
 
 Once the server is running, you'll see a local URL in your terminal (usually http://127.0.0.1:7860). Open this URL in your web browser.
 
